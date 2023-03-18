@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "drUzQDT9yTfTl9l1eqoyDIEnXgVir5zknzZEfTe2cp3tx6PVI4ldpHSZziFRZhL7iqOtOd0RLSmMEkPymcLV+Q==",
+  "success": true,
+  "projectFilePath": "D:\\xnunx\\JISTORY\\JISTORY Project\\Test Temp\\ExExcelRead\\ExExcelRead.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JIS\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\JIS\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\JIS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\JIS\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
